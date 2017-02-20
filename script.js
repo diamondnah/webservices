@@ -1,7 +1,8 @@
 /**
 * Mr. Burcham - API demo calling IBM Watson's GetNews endpoint.
 */
-
+var alchemy_endpoint = "https://gateway-a.watsonplatform.net/calls/data/GetNews";
+var alchemy_key = "3e629e327b62f6719852cd843f757a773c6e7baf";
 //add your code here...
 
 
